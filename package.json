@@ -10,7 +10,6 @@
   "author": "Victor Hugo",
   "license": "ISC",
   "dependencies": {
-    "serve": "^14.2.1",
-    "manifest": "standalone"
+    "serve": "^14.2.1"
   }
 }
