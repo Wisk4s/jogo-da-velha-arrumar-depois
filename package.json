@@ -1,0 +1,16 @@
+{
+  "name": "quarta-pwa-app",
+  "version": "1.0.0",
+  "description": "Esta é a quarta pwa, usando vanilla JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Victor Hugo",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.1",
+    "manifest": "standalone"
+  }
+}
